@@ -31,7 +31,7 @@ streamlit run app.py
 
 ## Demo
 
-Demo video available on LinkedIn.
+Demo video available on LinkedIn (https://www.linkedin.com/in/niladri-nag-b17640306/opportunities/volunteering/education/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BCjbZybm2Ss%2Bf5wr3NalQsw%3D%3D).
 
 ---
 
